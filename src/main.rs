@@ -1,3 +1,5 @@
+mod minute;
+mod stop;
 
 fn main() {
     println!("Hello, world!");
